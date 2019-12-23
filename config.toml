@@ -1,4 +1,4 @@
-baseURL = " http://sunkai.ltd/"
+baseURL = " sunkai.ltd"
 languageCode = "zh-Hans"
 title = "k的博客"
 theme = "ananke"
